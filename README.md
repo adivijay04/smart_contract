@@ -1,14 +1,10 @@
 # Overview
-This is my first deployment of smart contract on the sepolia testnet
+The lesson files in this repository is a collection of smart contracts created for learning purposes only and these smart contracts are deployed on the Sepolia Testnet.
 
-# Getting Started
-1. Go to [Remix](https://remix.ethereum.org/)
-2. Paste the code from `simple_transact.sol` in Remix
-3. Hit `Compile`
-4. Hit `Deploy`
-
-For a more in depth blog on working with remix, [read here](https://docs.chain.link/docs/deploy-your-first-contract/)
-
-My contract address : 0x4724de7e58d3C8CE82B3F2147e7Cb203d3ECed49
+# Resources
+1. [Remix](https://remix.ethereum.org/)
+2. [Solidity Docs](https://docs.soliditylang.org/en/latest/index.html)
+3. [FreeCodeCamp](https://www.youtube.com/watch?v=gyMwXuJrbJQ)
+4. [Smart Contract Docs](https://chain.link/education/smart-contracts#toc-first)
 
 # Thank you!
